@@ -1,3 +1,4 @@
+// Day 2: Conditional Statements: Is-Else
 function getGrade(score) {
     let grade
     
@@ -18,6 +19,8 @@ function getGrade(score) {
     return grade
 }
 
+
+// Day 2: Conditional Statements: Switch
 function getLetter(s) {
     let letter
 
@@ -67,6 +70,8 @@ function getLetter(s) {
     return letter
 }
 
+
+// Day 2: Loops
 function vowelsAndConsonants(s) {
     for (const c of s) {
         if (c === 'a' || c === 'e' || c === 'i' || c === 'o' || c === 'u') {

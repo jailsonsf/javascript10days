@@ -1,10 +1,11 @@
-'use strict'
-
+// Day 0: Hello, World!
 function greting(parameter) {
     console.log('Hello, World!')
     console.log(parameter)
 }
 
+
+// Day 0: Data Types
 function performOperation(secondInteger, secondDecimal, secondString) {
     
     const firstInteger = 4; 

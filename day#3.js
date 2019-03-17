@@ -1,3 +1,4 @@
+// Day 3: Arrays
 function getSecondLargest (nums) {
     
     let sLargest
